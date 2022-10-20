@@ -10,7 +10,7 @@ You can find me here :
 ## About Me
 Hi, I am Aashi !
 - 🔭 I am currently pursuing B.Tech. in Computer Science with specialization in Artificial Intelligence from Netaji Subhas University of Technology, Main Campus, Dwarka, Delhi, India.
-- 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
+- 👩‍💻 I find my technical interests in Problem Solving, Frontend development,Technical writing, Machine Learning and open source !. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 
 
