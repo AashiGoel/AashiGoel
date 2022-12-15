@@ -49,7 +49,7 @@ Hi, I am Aashi !
 
 <h1 align="left">GitHub Statistics</h1>
 
-[![Aashi's github activity graph](https://activity-graph.herokuapp.com/graph?username=AashiGoel&theme=github)](https://github.com/AashiGoel/github-readme-activity-graph)
+![Aashi's github activity graph](https://activity-graph.herokuapp.com/graph?username=AashiGoel&theme=github)](https://github.com/AashiGoel/github-readme-activity-graph)
 
 <a href="https://github.com/AashiGoel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiGoel&theme=tokyonight&layout=compact&" />
