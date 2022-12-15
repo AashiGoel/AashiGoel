@@ -27,7 +27,7 @@ You can find me here :
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
+<img alt='MySQL' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 </p>
 
