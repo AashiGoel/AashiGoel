@@ -8,7 +8,7 @@ You can find me here :
   
 
 ## About Me
-Hi, I am Aashi !
+  
 - 🔭 I am currently pursuing B.Tech. in Computer Science with specialization in Artificial Intelligence from Netaji Subhas University of Technology, Main Campus, Dwarka, Delhi, India.
 - 👩‍💻 I find my technical interests in Problem Solving, Frontend development, Artificial Intelligence, Machine Learning and open source! 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
@@ -42,7 +42,7 @@ Hi, I am Aashi !
   - Pair programming
   - Asking about any Data structures or algorithm (I will try my best to help)
   - Help with getting started with open source.
-  - Any new opportunity 
+  - Collaborating on projects
   
 
 ![Aashi Goel Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=AashiGoel&show_icons=true&include_all_commits=true&theme=radical)
