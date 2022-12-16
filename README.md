@@ -53,6 +53,6 @@ You can find me here :
 </a>
 
 
-## Holopin Badges
+<h1> Holopin Badges </h1>
 
 [![@aashigoel's Holopin board](https://holopin.me/aashigoel)](https://holopin.io/@aashigoel)
