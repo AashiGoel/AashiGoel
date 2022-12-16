@@ -49,7 +49,7 @@ You can find me here :
 <h1 align="left">GitHub Statistics</h1>
 
 <a href="https://github.com/AashiGoel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
 </a>
 
 
