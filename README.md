@@ -43,9 +43,11 @@ You can find me here :
   - Help with getting started with open source.
   - Collaborating on projects
 
-<h1 align="left">GitHub Statistics</h1>
+<details open><summary><h1 align="left">GitHub Statistics</h1></summary>
 
 ![Aashi Goel Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=AashiGoel&show_icons=true&include_all_commits=true&theme=radical)
+
+</details>
 
 <h1 align="left">Top Languages</h1>
 
