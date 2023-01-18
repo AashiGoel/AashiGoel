@@ -42,11 +42,12 @@ You can find me here :
   - Asking about any Data structures or algorithm (I will try my best to help)
   - Help with getting started with open source.
   - Collaborating on projects
-  
+
+<h1 align="left">GitHub Statistics</h1>
 
 ![Aashi Goel Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=AashiGoel&show_icons=true&include_all_commits=true&theme=radical)
 
-<h1 align="left">GitHub Statistics</h1>
+<h1 align="left">Top Languages</h1>
 
 <a href="https://github.com/AashiGoel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiGoel&layout=compact&theme=dracula" />
