@@ -51,7 +51,7 @@ You can find me here :
 <h1 align="left">Top Languages</h1>
 
 <a href="https://github.com/AashiGoel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiGoel&layout=compact&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiGoel&layout=compact&theme=cobalt&title_color=white" />
 </a>
 
 
