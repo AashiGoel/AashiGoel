@@ -10,7 +10,7 @@ You can find me here :
 ## About Me
   
 - 🔭 I am currently pursuing B.Tech. in Computer Science with specialization in Artificial Intelligence from Netaji Subhas University of Technology, Main Campus, Dwarka, Delhi, India.
-- 👩‍💻 I find my technical interests in Problem Solving, Frontend development, Artificial Intelligence, Machine Learning and open source! 
+- 👩‍💻 I find my technical interests in Problem Solving, Frontend development, Artificial Intelligence and open source! 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 
 
@@ -42,6 +42,7 @@ You can find me here :
   - Asking about any Data structures or algorithm (I will try my best to help)
   - Help with getting started with open source.
   - Collaborating on projects
+  - Talking about anything related to Artificial Intelligence!
 
 
 <h1 align="left">GitHub Statistics</h1>
